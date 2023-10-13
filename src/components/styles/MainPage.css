@@ -1,0 +1,61 @@
+.MPC1{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-image: url(./img/background.jpg);
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+
+}
+
+.MPCdiv1{
+    width: 455px;
+    text-align: start;
+}
+
+.MPCbt1{
+    width: 100px;
+    height: 40px;
+    margin: auto;
+    text-align: center;
+    border: none;
+    background-color: rgba(74, 38, 133, 0.99);
+    color: white !important; 
+    border-radius: 10px;
+
+}
+.MPCbt1:hover{
+    background-color: rgb(152, 107, 224);
+}
+
+.MPClink{
+    text-decoration: none;
+    font-size: 15px;
+    margin:0;
+    color: aliceblue;
+    padding: 50px 20px 50px 20px;
+}
+
+.MPCbt2{
+    width: 100px;
+    height: 40px;
+    margin: auto;
+    text-align: center;
+    border: none;
+    background-color: white;
+    color: rgba(74, 38, 133, 0.99);
+    border-radius: 10px;
+    margin-left: 10px; 
+}
+.MPCbt2:hover{
+    background-color: rgb(152, 107, 224);
+    color: aliceblue;
+}
+
+.MPCimg {
+    width: 650px;
+    height: 650px;
+}
